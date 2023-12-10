@@ -1,5 +1,12 @@
-# Google-Play-Store-Apps-EDA-
-Exploratory data analysis on Google Play Store dataset.
-End to end portfolio project .
-Tools used- Excel and Power BI            
-Project dashboard - https://www.novypro.com/project/google-play-store-apps-dataset-dashboard-power-bi
+# Google Play Store Apps EDA 
+
+### Steps to Follow
+- Download the raw csv file.
+- Data cleaning using excel,  i. Deleting blank values.
+ii.  Removing duplicates.
+iii.  Formatting the columns.
+- Data Visualization using power bi.
+
+### Tools 
+- Excel
+- Power BI
