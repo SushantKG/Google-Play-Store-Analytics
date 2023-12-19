@@ -1,12 +1,13 @@
-# Google Play Store Apps EDA 
+# Google Play Store Analytics
 
-### Steps to Follow
-- Download the raw csv file.
-- Data cleaning using excel,  i. Deleting blank values.
-ii.  Removing duplicates.
-iii.  Formatting the columns.
-- Data Visualization using power bi.
+## Steps to Follow
+- Download the raw CSV file [Raw Dataset.](https://github.com/SushantKG/Google-Play-Store-Analytics/blob/main/googleplaystore%20Raw%20Dataset.csv)
+- Data cleaning using Excel
+  1. Deleting blank values.
+  2. Removing duplicates.
+  3. Formatting the columns.
+- Data Visualization using Power BI. [Interactive Dashboard](https://github.com/SushantKG/Google-Play-Store-Analytics/blob/main/Power%20BI%20Interactive%20Dashboard.pbix)
 
-### Tools 
+## Tools 
 - Excel
 - Power BI
